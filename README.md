@@ -1,5 +1,5 @@
 # Proj1-Win21
-In this project you will create a TextAnalyzer program.
+In this project you will create a TextAnalyzer class.
 
 You will need to clone this repo to your local machine.
 
