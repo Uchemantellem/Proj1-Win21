@@ -7,7 +7,7 @@ git clone URL
 
 Add the source to your staging area
 
-git add DS3_starter.py
+git add TextAnalyzer.py
 
 Check that it was added
 
